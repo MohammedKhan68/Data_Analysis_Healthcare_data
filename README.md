@@ -47,7 +47,7 @@ git clone https://github.com/MohammedKhan68/Data_Analysis_Healthcare_data.git
 
 ## **Technologies Used**  
 - **SQL (Structured Query Language)** – For data extraction and analysis  
-- **MySQL / PostgreSQL / SQL Server** – Database systems used to store and process the data  
+- **MySQL** – Database systems used to store and process the data  
 
 ---
 
